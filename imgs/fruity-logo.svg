@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="44.408mm"
+   height="20.016mm"
+   version="1.1"
+   viewBox="0 0 44.408 20.016"
+   id="svg12"
+   sodipodi:docname="fruity-logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="6.4339341"
+     inkscape:cx="82.40867"
+     inkscape:cy="42.16598"
+     inkscape:window-x="1912"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(24.881 35.529)"
+     fill="#ececec"
+     id="g10">
+    <path
+       d="m -21.83701,-28.420943 h -1.044214 v 1.904985 h 1.044214 V -21.182 h 2.497647 v -5.333958 h 1.665098 v -1.904985 h -1.665098 v -1.467544 c 0,-1.001881 0.14111,-1.425211 0.776105,-1.425211 0.409219,0 0.747883,0.197554 0.747883,0.197554 l 0.874882,-1.763875 c 0,0 -0.790216,-0.649106 -2.060206,-0.649106 -1.806208,0 -2.8222,1.453433 -2.836311,3.570083 z"
+       style="font-size:14.111px;line-height:1.25;font-family:'League Spartan';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;fill:#ececec"
+       id="path836" />
+    <path
+       d="m -16.968715,-21.182 h 2.497647 v -3.80997 c 0,-0.183443 0.183443,-1.467544 1.481655,-1.467544 0.832549,0 1.298212,0.395108 1.298212,0.395108 l 1.044214,-2.11665 c 0,0 -0.649106,-0.451552 -1.580432,-0.451552 -1.425211,0 -2.215427,1.255879 -2.215427,1.255879 h -0.02822 v -1.044214 h -2.497647 z"
+       style="font-size:14.111px;line-height:1.25;font-family:'League Spartan';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;fill:#ececec"
+       id="path838" />
+    <path
+       d="m -7.584238,-28.420943 h -2.497647 v 4.049857 c 0,2.427092 1.213546,3.400751 3.922858,3.400751 2.709312,0 3.922858,-0.973659 3.922858,-3.400751 v -4.049857 h -2.497647 v 3.443084 c 0,1.425211 -0.380997,1.97554 -1.425211,1.97554 -1.044214,0 -1.425211,-0.550329 -1.425211,-1.97554 z"
+       style="font-size:14.111px;line-height:1.25;font-family:'League Spartan';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;fill:#ececec"
+       id="path840" />
+    <path
+       d="m 0.603669,-32.89413 c -0.818438,0 -1.481655,0.663217 -1.481655,1.481655 0,0.818438 0.663217,1.481655 1.481655,1.481655 0.818438,0 1.481655,-0.663217 1.481655,-1.481655 0,-0.818438 -0.663217,-1.481655 -1.481655,-1.481655 z m -1.284101,4.473187 H 1.817215 V -21.182 h -2.497647 z"
+       style="font-size:14.111px;line-height:1.25;font-family:'League Spartan';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;fill:#ececec"
+       id="path842" />
+    <path
+       d="M 4.014783,-28.420943 H 2.970569 v 1.904985 h 1.044214 v 2.779867 c 0,1.284101 0.479774,2.765756 2.469425,2.765756 1.030103,0 1.83443,-0.451552 1.83443,-0.451552 L 7.697754,-23.43976 c 0,0 -0.296331,0.225776 -0.620884,0.225776 -0.395108,0 -0.56444,-0.324553 -0.56444,-1.001881 v -2.300093 h 1.523988 v -1.904985 H 6.51243 v -2.695201 H 4.014783 Z"
+       style="font-size:14.111px;line-height:1.25;font-family:'League Spartan';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;fill:#ececec"
+       id="path844" />
+    <path
+       d="m 14.647863,-28.420943 -1.721542,3.711193 -2.017873,-3.711193 H 8.029804 l 3.428973,6.110063 -2.497647,4.79774 h 2.878644 l 5.686733,-10.907803 z"
+       style="font-size:14.111px;line-height:1.25;font-family:'League Spartan';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:0px;white-space:pre;fill:#ececec"
+       id="path846" />
+  </g>
+  <path
+     style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 25.390681,3.3175752 25.862528,2.367872 c 0,0 -0.278004,-1.84396434 2.520913,-0.073154 -2.076906,-0.1143305 -2.321946,0.2908134 -2.321946,0.2908134 l -0.480134,0.8958102 z"
+     id="path847"
+     sodipodi:nodetypes="cccccc" />
+</svg>
